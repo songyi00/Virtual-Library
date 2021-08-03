@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+body {
+    background: plum;
+}
+
+.inputBox {
+    margin-left: 33%;
+    margin-top: 13%;
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+    width: 400px;
+    font-family: 'Courgette';
+}
